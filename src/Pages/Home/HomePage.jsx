@@ -21,7 +21,7 @@ export default function HomePage(){
         <div className="flex flex-col items-center gap-[16px]">
           {/*Title*/}
           <p className="font-extrabold text-6xl max-w-[600px] text-start text-black">
-            1С, фронтенд разработчик и дизайнер
+            Привет я Ульяна и я 1С и фронтенд разработчик, а так же дизайнер
           </p>
 
           {/*Description*/}

@@ -54,6 +54,10 @@ export default function AboutPage(){
           <div>
             <p className='text-black text-bold text-xl'>Whatsapp: +7-914-419-26-43</p>
           </div>
+
+          <div>
+            <p className='text-black text-bold text-xl'>Моя почта: Kuznetsovaus.18@mail.ru</p>
+          </div>
         </div>
       </div>
     </div>
